@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AriaZiru
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m interested in Frontend Developer and Backend Developer
 - 🌱 I’m currently learning HTML-CSS-Javascript
 - 💞️ I’m looking to collaborate on web communities
 - 📫 follow me
